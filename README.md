@@ -1,5 +1,5 @@
 # PVEPublicUpdates
-Setup Public Updates for Proxmox VE
+Setup Public Updates for Proxmox VE, in lieu of Enterprise (paid subscription) updates.
 
 ## How To Run
 
